@@ -40,4 +40,8 @@ public class ViewControllerTest {
 	public String updatePage() {
 		return "user/update";
 	}
+
+	public static void main(String[] args) {
+		System.out.println("hello");
+	}
 }
